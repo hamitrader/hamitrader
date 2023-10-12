@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center"> 👋  H A M I</h1>
 <h3 align="center">T R A D E R</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hami-coder&label=Profile%20views&color=0e75b6&style=flat" alt="hami-coder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hami-coder&label=Profile%20views&color=green&style=flat" alt="hami-coder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamitrader" alt="hamitrader" /></a> </p>
 
